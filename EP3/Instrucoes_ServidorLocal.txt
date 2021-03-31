@@ -1,0 +1,9 @@
+PCS5703 – Sistemas Multiagentes
+Exercício Prático III - Grupo 1
+
+Instruções para execução:
+- Inicializar o servidor Hecate: ExecutarHecate.bat
+- Inicializar o servidor local: ExecutarServLocal.bat
+- Aguardar execução. Seus logs serão apresentados na janela de comando.
+- Após finalização, verificar arquivos salvos no diretório indicado (pcs5703-2020---exercicio-pratico-3-
+g1/)

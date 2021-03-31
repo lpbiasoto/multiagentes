@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="ServLocal:jar">
+    <output-path>$PROJECT_DIR$/../</output-path>
+    <root id="archive" name="ServLocal.jar">
+      <element id="module-output" name="ServLocal" />
+    </root>
+  </artifact>
+</component>

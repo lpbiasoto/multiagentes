@@ -1,0 +1,1 @@
+java -jar hecateServer-0.0.4.jar

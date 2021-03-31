@@ -1,0 +1,10 @@
+- Leilões serão sorteados aleatoriamente pelo Giacomo no Hecate, não há como saber qual o próximo leilão
+- A cada instante o leilão ativo será recuperado do servidor e todos os agentes terão ciência do último lance dado - só não saberão de quem foi
+- Ordem de envio lances das empresas não foi especificado, então quem dá o lance primeiro vai depender da estratégia de cada uma
+- Se a estratégia ganhadora será a que o Giacomo gastar menos, então os agentes serão competitivos, e não colaborativos (aqui não há como criar uma coalizão, como sugeri anteriormente, pois essa visa aumentar o lucro das empresas)
+- Cada leilão é um leilão holandês - item único, open cry, decrescente
+- Existe a possibilidade de ocorrerem empates? Como o sistem se comporta? - testar
+- Dado as restrições envolvidas, será que caberia aqui um problema de otimização considerando o conjunto de leilões?
+- A base de conhecimento de cada agente é essencial para determinação da sua estratégia:
+- Os agentes podem ter conhecimento de em quais leilões cada outro agente vai participar?
+- Os agentes poderão saber qual o ganhador de cada leilão anterior?
